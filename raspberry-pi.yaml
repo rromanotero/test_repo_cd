@@ -11,6 +11,6 @@ spec:
     server: https://kubernetes.default.svc
   project: default
   source:
-    path: main_app
+    path: raspberry-pi-chart
     repoURL: https://github.com/rromanotero/test_repo_cd.git
     targetRevision: HEAD
