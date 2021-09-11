@@ -9,9 +9,12 @@ image:
   tag: master
   pullPolicy: Always
 
+deployment:
+  containerPort: 5000
+
 service:
   type: ClusterIP
-  port: 8080
+  port: 5000
 
 ingress:
   enabled: false
