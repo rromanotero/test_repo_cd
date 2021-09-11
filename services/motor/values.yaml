@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: rromanotero/test_repo_motor
-  tag: arm
+  tag: master
   pullPolicy: Always
 
 service:
