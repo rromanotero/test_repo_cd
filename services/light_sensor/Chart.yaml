@@ -4,4 +4,4 @@ description: A Helm chart for Kubernetes
 
 type: application
 version: 1.0.0
-appVersion: master-dbe5bd13d025de5502c8d6bdfd1844eb5ad6b853
+appVersion: master-f2878f26633d261cf2665aacb17e61e0d62fafbc
