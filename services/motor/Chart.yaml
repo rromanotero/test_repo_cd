@@ -3,5 +3,5 @@ name: motor
 description: A Helm chart for Kubernetes
 
 type: application
-version: 1.0.5
-appVersion: master-ecab48c2dfd82f247e0920993d21ed80b51cdcff
+version: 1.0.0
+appVersion: master-84fc9cf5b64eeecb3cd7c3008b74a6ccabe52f87
