@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: rromanotero/test_repo_motor
-tag: master-79ad170
+tag: master-8303cfe
   pullPolicy: Always
 
 deployment:
