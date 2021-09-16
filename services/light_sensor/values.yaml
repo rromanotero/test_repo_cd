@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: rromanotero/test_repo_light_sensor
-  tag: master-9b992a7
+  tag: master-a37f572
   pullPolicy: Always
 
 deployment:
