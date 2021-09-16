@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: rromanotero/test_repo_motor
-  tag: master-39cbc38
+  tag: master-1d42d60
   pullPolicy: Always
 
 deployment:
