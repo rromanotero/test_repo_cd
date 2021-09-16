@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: rromanotero/test_repo_light_sensor
-  tag: master-bca175a
+  tag: master-82d2562
   pullPolicy: Always
 
 deployment:
