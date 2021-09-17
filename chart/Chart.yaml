@@ -1,7 +1,7 @@
 apiVersion: v2
-name: test_repo
+name: test-repo
 description: A Helm chart for Kubernetes
 
 type: application
 version: 1.0.0
-appVersion: master-31d68b861f1ece25984c8707f1c507ca2ac82bf2
+appVersion: master-ac46e7b1dfda3519ace2609ea848eea33b02c816
