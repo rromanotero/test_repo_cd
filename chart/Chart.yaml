@@ -1,7 +1,7 @@
 apiVersion: v2
-name: light-sensor
+  name: test_repo
 description: A Helm chart for Kubernetes
 
 type: application
 version: 1.0.0
-appVersion: master
+  appVersion: master-5e63cb109427fe1cb7a37fc6cea8892fc1c18ed7
