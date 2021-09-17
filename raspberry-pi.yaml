@@ -1,7 +1,7 @@
 apiVersion: argoproj.io/v1alpha1
 kind: Application
 metadata:
-  name: raspberry-pi
+  name: light-sensor
   namespace: argocd
   finalizers:
   - resources-finalizer.argocd.argoproj.io
@@ -11,10 +11,10 @@ spec:
       prune: true
       selfHeal: true
   destination:
-    namespace: argocd
+    namespace: default
     server: https://kubernetes.default.svc
-  project: default
+  project: my-pi-automation-project
   source:
-    path: raspberry-pi
+    path: chart
     repoURL: https://github.com/rromanotero/test_repo_cd.git
     targetRevision: HEAD
