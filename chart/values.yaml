@@ -6,7 +6,7 @@ replicaCount: 1
 
 image:
   repository: rromanotero/test_repo
-  tag: master-f894b64e8692f089f9f630d149fb0a9ab84c1b0d
+  tag: master-296801a0997124918493f51d93ebe6801ef450be
   pullPolicy: Always
 
 deployment:
